@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Lucas Vuicik
+## Faaaaala, tudo beleza? Eu sou o Lucas Vuicik!
 <div align="center">
   <a href="https://github.com/lucasvuicik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvuicik&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
