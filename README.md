@@ -18,7 +18,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/watch?v=XDJm2Wotp2o&t=28s&ab_channel=L.A.Solu%C3%A7%C3%B5esDigitais" target="_blank">
+  <a href="https://www.youtube.com/watch?v=XDJm2Wotp2o" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   
