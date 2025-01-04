@@ -4,6 +4,7 @@
   </a> 
 </div>
 
+<br><br>
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvuicik&show_icons=true&theme=dark)
